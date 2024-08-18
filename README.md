@@ -1,4 +1,4 @@
-# Distributed Database Systems and Spatial Data Processing - CSE 512 Assignments"
+# Distributed Database Systems and Spatial Data Processing - CSE 512
 
 ## Objective
 This repository contains the completed assignments for the CSE 512 course. Each assignment covers various topics related to database management systems, spatial data processing, and big data frameworks.
